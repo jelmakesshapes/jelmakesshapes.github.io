@@ -16,7 +16,7 @@
 title: jel makes shapes
 email: hello@jelmakesshapes.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I like Turtles
+  barre and stott pilates instructor. tech innovator. come move with me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jelmakesshapes.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,8 +28,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
