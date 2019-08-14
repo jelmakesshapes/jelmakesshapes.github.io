@@ -681,10 +681,12 @@ section#contact .form-group textarea {
 
 section#contact .form-group input.form-control {
     height: auto;
+    color: #000000;
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: 157px;
+    color: #000000;
 }
 
 section#contact .form-control:focus {
